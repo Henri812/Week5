@@ -1,0 +1,15 @@
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.csproj.AssemblyReference.cache
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.AssemblyInfoInputs.cache
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.AssemblyInfo.cs
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.csproj.CoreCompileInputs.cache
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/bin/Debug/net5.0/LoginValidation.deps.json
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/bin/Debug/net5.0/LoginValidation.runtimeconfig.json
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/bin/Debug/net5.0/LoginValidation.runtimeconfig.dev.json
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/bin/Debug/net5.0/LoginValidation.dll
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/bin/Debug/net5.0/ref/LoginValidation.dll
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/bin/Debug/net5.0/LoginValidation.pdb
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.dll
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/ref/LoginValidation.dll
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.pdb
+/Users/jaagupvaar/Projects/MoreLoops/LoginValidation/obj/Debug/net5.0/LoginValidation.genruntimeconfig.cache

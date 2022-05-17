@@ -1,0 +1,15 @@
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/bin/Debug/net5.0/DiceGame.deps.json
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/bin/Debug/net5.0/DiceGame.runtimeconfig.json
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/bin/Debug/net5.0/DiceGame.runtimeconfig.dev.json
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/bin/Debug/net5.0/DiceGame.dll
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/bin/Debug/net5.0/ref/DiceGame.dll
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/bin/Debug/net5.0/DiceGame.pdb
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.csproj.AssemblyReference.cache
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.AssemblyInfoInputs.cache
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.AssemblyInfo.cs
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.csproj.CoreCompileInputs.cache
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.dll
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/ref/DiceGame.dll
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.pdb
+/Users/jaagupvaar/Projects/MoreLoops/DiceGame/obj/Debug/net5.0/DiceGame.genruntimeconfig.cache

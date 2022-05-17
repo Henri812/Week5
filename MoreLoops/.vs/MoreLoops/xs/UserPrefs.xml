@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{E5227A5D-891C-40A4-8E8F-EBBD8EDE1A47}|Default">
+  <MonoDevelop.Ide.ItemProperties.ForLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ForLoopSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DiceGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OneToTen/Program.cs">
+    <Files>
+      <File FileName="LoginValidation/Program.cs" Line="13" Column="39" />
+      <File FileName="ForLoop/Program.cs" Line="22" Column="1" />
+      <File FileName="OneToTen/Program.cs" Line="13" Column="42" />
+      <File FileName="TenToOne/Program.cs" />
+      <File FileName="ForLoopSum/Program.cs" />
+      <File FileName="DiceGame/Program.cs" Line="54" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoreLoops" expanded="True">
+            <Node name="DiceGame" expanded="True" />
+            <Node name="ForLoop" expanded="True" />
+            <Node name="ForLoopSum" expanded="True" />
+            <Node name="LoginValidation" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="OneToTen" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="TenToOne" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MoreLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LoginValidation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TenToOne FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OneToTen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OROperator FirstBuild="True" />
+</Properties>

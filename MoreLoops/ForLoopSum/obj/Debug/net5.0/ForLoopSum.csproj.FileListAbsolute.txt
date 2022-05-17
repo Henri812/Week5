@@ -1,0 +1,15 @@
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/bin/Debug/net5.0/ForLoopSum.deps.json
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/bin/Debug/net5.0/ForLoopSum.runtimeconfig.json
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/bin/Debug/net5.0/ForLoopSum.runtimeconfig.dev.json
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/bin/Debug/net5.0/ForLoopSum.dll
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/bin/Debug/net5.0/ref/ForLoopSum.dll
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/bin/Debug/net5.0/ForLoopSum.pdb
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.csproj.AssemblyReference.cache
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.AssemblyInfoInputs.cache
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.AssemblyInfo.cs
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.csproj.CoreCompileInputs.cache
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.dll
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ref/ForLoopSum.dll
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.pdb
+/Users/jaagupvaar/Projects/MoreLoops/ForLoopSum/obj/Debug/net5.0/ForLoopSum.genruntimeconfig.cache
